@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Lakmali
 
-<!--
-**lakma17/lakma17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+I'm interested in **biological experiments**, **environmental research**, **business-framed datasets**, and **predictive analysis**. I enjoy exploring data-driven insights and applying analytical methods to solve real-world problems.
 
-Here are some ideas to get you started:
+## 📊 Projects & Presentations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1️⃣ Impact of Fertilizer Management on N₂O Emissions
+- **Presentation:** [Open Presentation (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding.pdf)
+- **Full Report:** [Open Full Report (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding_report.pdf)
+
+### 2️⃣ Other Projects
+- Add links to future projects or repositories here
+
+## 📌 Skills
+- Biological and environmental experimentation  
+- Business-framed data analysis & predictive modeling  
+- Research reporting & visualization  
+- GitHub, Markdown, Python (or other relevant tools)
+
+## 📫 Contact Me
+- Email: your.email@example.com  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
