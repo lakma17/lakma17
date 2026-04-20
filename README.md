@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lakmali
 
 ## 🌱 About Me
-I'm interested in **biological experiments**, **environmental research**, **business-framed datasets**, and **predictive analysis**. I enjoy exploring data-driven insights and applying analytical methods to solve real-world problems.
+Strong interest in business-oriented datasets, complemented by experience in biological and environmental data analysis, with a focus on predictive modelling and extracting actionable insights.
 
 ## 📊 Projects & Presentations
 
