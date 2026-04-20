@@ -7,17 +7,14 @@ Strong interest in business-oriented datasets, complemented by experience in bio
 
 ### 1️⃣ Impact of Fertilizer Management on N₂O Emissions
 - **Presentation:** [Open Presentation (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding.pdf)
-- **Full Report:** [Open Full Report (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding_report.pdf)
-- **Data Analysis Notebook:** [View Analysis (Jupyter Notebook)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/blob/main/analysis.ipynb)
 
-
-### 2️⃣ Other Projects
-- 
+  
 ## 📌 Skills
-- Biological and environmental experimentation  
-- Business-framed data analysis & predictive modeling  
-- Research reporting & visualization  
-- GitHub, Markdown, Python (or other relevant tools)
+
+-Python (data analysis, machine learning)
+-SQL (data querying)
+-Tableau & Excel (data visualisation and reporting)
+-Critical thinking, analytical reporting and presentation preparation
 
 ## 📫 Contact Me
 - Email: 
