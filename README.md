@@ -15,7 +15,7 @@ Strong interest in business-oriented datasets, complemented by experience in bio
 👉 **[Open Presentation (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding.pdf)**
 
 ### Global internet usage
-👉 **[View Presentation](https://github.com/lakma17/Global_internet_usage_new/blob/main/Global%20Internet%20Usage.pptx)**  
+👉 **[View Presentation](https://github.com/lakma17/Global_internet_usage_new/blob/main/internet%20usage.pdf)**  
 ## 📌 Skills
 
 -Python (data analysis, machine learning)
