@@ -9,7 +9,7 @@ Strong interest in business-oriented datasets, complemented by experience in bio
 👉 **[Open Presentation (PDF)](https://github.com/lakma17/NHS-Appointment-Trends-Regional-Variation-and-Service-Efficiency-/blob/main/presentation.pdf)**
 
 ### Market-data-analysis
-👉 **[View Full Presentation](market_data_presentation.pdf)**
+👉 **[View Full Presentation]([market_data_presentation.pdf](https://github.com/lakma17/Market-data-analysis/blob/main/market_data_presentation.pdf))**
   
 ###  Impact of Fertilizer Management on N₂O Emissions
 👉 **[Open Presentation (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding.pdf)**
