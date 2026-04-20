@@ -14,6 +14,8 @@ Strong interest in business-oriented datasets, complemented by experience in bio
 ###  Impact of Fertilizer Management on N₂O Emissions
 👉 **[Open Presentation (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding.pdf)**
 
+### Global internet usage
+👉 **[View Presentation](https://github.com/lakma17/Global_internet_usage_new/blob/main/Global%20Internet%20Usage.pptx)**  
 ## 📌 Skills
 
 -Python (data analysis, machine learning)
