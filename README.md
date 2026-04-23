@@ -5,6 +5,9 @@ Strong interest in business-oriented datasets, complemented by experience in bio
 
 ## 📊 Projects & Presentations
 
+### Customer Loyalty Analysis: Drivers and Customer Segmentation
+👉 **[Open Presentation](https://github.com/lakma17/Customer-Loyalty-Behavioural-Segmentation/blob/main/customer%20loyalty%20analysis.pdf)**
+
 ### NHS-Appointment-Trends-Regional-Variation-and-Service-Efficiency
 👉 **[Open Presentation (PDF)](https://github.com/lakma17/NHS-Appointment-Trends-Regional-Variation-and-Service-Efficiency-/blob/main/presentation.pdf)**
 
