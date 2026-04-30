@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lakmali
 
 ## 🌱 About Me
-Strong interest in business-oriented datasets, complemented by experience in biological and environmental data analysis, with a focus on predictive modelling and extracting actionable insights.
+Data Analyst with a strong foundation in scientific research and extensive experience in analytical problem-solving and data interpretation. Recently completed the Data Analytics Career Accelerator (LSE), gained practical experience with Excel, Python, SQL, R, Tableau and predictive analytics. Skilled in managing complex datasets, performing statistical analysis and delivering actionable insights to support evidence-based decision-making. Now returning to the workforce after a planned career break, bringing technical skills and previous experiences as a scientist to develop an impactful data-driven solutions.
 
 ## 📊 Projects & Presentations
 
